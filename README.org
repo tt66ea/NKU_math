@@ -1,15 +1,85 @@
 * NKU 本科数学
 
-** 总的来说
+南开数学系教材和资源，主要给大家一个教材选择参考。
+来源大多网上，一部分是自己整理。尽量上传带目录（书签）的 PDF；如有疏漏请提 issue。
 
-总之这里是一个放数学系各种教材和资源的地方
+** 分析
 
-目的主要是给大家一个教材选择参考（
+*** 泛函分析
 
-来源大多网上，一部分是自己整理
+- [[file:分析/泛函分析/泛函分析（第三版）-刘炳初.pdf][泛函分析（第三版）]] :: 刘炳初
 
-我会尽量上传带有目录的文件，如有疏漏请提issue
+*** 偏微分方程（数理方程）
+
+- [[file:分析/偏微分方程（数理方程）/椭圆与抛物型方程引论-伍卓群、尹景学、王春朋.pdf][椭圆与抛物型方程引论]] :: 伍卓群、尹景学、王春朋
+- [[file:分析/偏微分方程（数理方程）/广义函数与数学物理方程-齐民友、吴方同.pdf][广义函数与数学物理方程]] :: 齐民友、吴方同
+
+*** 实变函数
+
+- [[file:分析/实变函数/实变函数（第三版）-周性伟、孙文昌.pdf][实变函数（第三版）]] :: 周性伟、孙文昌
+- [[file:分析/实变函数/Real Analysis-Elias M. Stein、Rami Shakarchi.pdf][Real Analysis]] :: Elias M. Stein、Rami Shakarchi
+- [[file:分析/实变函数/Measure, Integration & Real Analysis-Sheldon Axler.pdf][Measure, Integration & Real Analysis]] :: Sheldon Axler
+
+*** 概率论
+
+- [[file:分析/概率论/概率论（上册）-李增沪、张梅、何辉.pdf][概率论（上册）]] :: 李增沪、张梅、何辉
+- [[file:分析/概率论/概率论引论-谢践生.pdf][概率论引论]] :: 谢践生
+
+*** 其他
+
+- [[file:分析/Analysis I-Herbert Amann、Joachim Escher.pdf][Analysis I]] :: Herbert Amann、Joachim Escher
+- [[file:分析/Analysis II-Herbert Amann、Joachim Escher.pdf][Analysis II]] :: Herbert Amann、Joachim Escher
+- [[file:分析/Analysis III-Herbert Amann、Joachim Escher.pdf][Analysis III]] :: Herbert Amann、Joachim Escher
+- [[file:分析/Real Analysis (2nd ed.)-Gerald B. Folland.pdf][Real Analysis (2nd ed.)]] :: Gerald B. Folland
+
+** 代数与数论
+
+*** 高等代数
+
+- [[file:代数与数论/高等代数/代数学（一）-李方、邓少强、冯荣权、刘东文.pdf][代数学（一）]] :: 李方、邓少强、冯荣权、刘东文
+- [[file:代数与数论/高等代数/代数学（二）-李方、邓少强、冯荣权、刘东文.pdf][代数学（二）]] :: 李方、邓少强、冯荣权、刘东文
+
+*** 抽象代数
+
+- [[file:代数与数论/抽象代数/抽象代数-邓少强、朱富海.pdf][抽象代数]] :: 邓少强、朱富海
+- [[file:代数与数论/抽象代数/代数学（三）-冯荣权、邓少强、李方、徐彬斌.pdf][代数学（三）]] :: 冯荣权、邓少强、李方、徐彬斌
+- [[file:代数与数论/抽象代数/代数学（四）-冯荣权、邓少强、李方、徐彬斌.pdf][代数学（四）]] :: 冯荣权、邓少强、李方、徐彬斌
+- [[file:代数与数论/抽象代数/Abstract Algebra (3rd ed.)-David S. Dummit、Richard M. Foote.pdf][Abstract Algebra (3rd ed.)]] :: David S. Dummit、Richard M. Foote
+
+*** 有限群表示论
+
+- [[file:代数与数论/有限群表示论/群表示论-丘维声.pdf][群表示论]] :: 丘维声
+- [[file:代数与数论/有限群表示论/代数学（五）-邓少强、李方、冯荣权、常亮.pdf][代数学（五）]] :: 邓少强、李方、冯荣权、常亮
+
+*** Galois 理论
+
+- [[file:代数与数论/Galois理论/Galois Theory (4th ed.)-Ian Stewart.pdf][Galois Theory (4th ed.)]] :: Ian Stewart
+- [[file:代数与数论/Galois理论/Algebra with Galois Theory-Emil Artin.pdf][Algebra with Galois Theory]] :: Emil Artin
+
+*** 其他
+
+- [[file:代数与数论/Algebra (2nd ed.)-Michael Artin.pdf][Algebra (2nd ed.)]] :: Michael Artin
+
+** 几何与拓扑
+
+- [[file:几何与拓扑/拓扑学（原书第2版）-James R. Munkres-译熊金城、吕杰、谭枫.pdf][拓扑学（原书第2版）]] :: James R. Munkres，译：熊金城、吕杰、谭枫
+- [[file:几何与拓扑/Topology (2nd ed.)-James Munkres.pdf][Topology (2nd ed.)]] :: James Munkres
+
+部分解答：[[file:几何与拓扑/Munkers Sol/][Munkers Sol]]、[[file:部分解答/拓扑学.typ][拓扑学.typ]]
+
+*** 点集拓朴学
+
+- [[file:几何与拓扑/点集拓朴学/一般拓扑学基础（第二版）-张德学.pdf][一般拓扑学基础（第二版）]] :: 张德学
+- [[file:几何与拓扑/点集拓朴学/Basic Topology-M. A. Armstrong.pdf][Basic Topology]] :: M. A. Armstrong
+- [[file:几何与拓扑/点集拓朴学/Point-Set Topology-Rafael López.pdf][Point-Set Topology]] :: Rafael López
+
+** 组合与离散数学
+
+*** 集合论与数理逻辑
+
+- [[file:组合与离散数学/集合论与数理逻辑/Computability and Logic (5th ed.)-George S. Boolos、John P. Burgess、Richard C. Jeffrey.pdf][Computability and Logic (5th ed.)]] :: George S. Boolos、John P. Burgess、Richard C. Jeffrey
+- [[file:组合与离散数学/集合论与数理逻辑/Fundamentals of Mathematical Logic-Peter G. Hinman.pdf][Fundamentals of Mathematical Logic]] :: Peter G. Hinman
 
 ** 如何贡献
 
-提PR或者发email，或者线下找我都行（
+提 PR、发 email，或者线下找我都行。

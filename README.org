@@ -24,6 +24,12 @@
 
 - [[file:分析/概率论/概率论（上册）-李增沪、张梅、何辉.pdf][概率论（上册）]] :: 李增沪、张梅、何辉
 - [[file:分析/概率论/概率论引论-谢践生.pdf][概率论引论]] :: 谢践生
+- [[file:分析/概率论/Probability Theory and Examples (5th ed.)-Rick Durrett.pdf][Probability: Theory and Examples (5th ed.)]] :: Rick Durrett
+- [[file:分析/概率论/Essentials of Stochastic Processes (3rd ed.)-Richard Durrett.pdf][Essentials of Stochastic Processes (3rd ed.)]] :: Richard Durrett
+- [[file:分析/概率论/Applied Probability and Queues (2nd ed.)-Søren Asmussen.pdf][Applied Probability and Queues (2nd ed.)]] :: Søren Asmussen
+- [[file:分析/概率论/Brownian Motion and Stochastic Calculus (2nd ed.)-Ioannis Karatzas、Steven E. Shreve.pdf][Brownian Motion and Stochastic Calculus (2nd ed.)]] :: Ioannis Karatzas、Steven E. Shreve
+- [[file:分析/概率论/Renewal Processes-Kosto V. Mitov、Edward Omey.pdf][Renewal Processes]] :: Kosto V. Mitov、Edward Omey
+- [[file:分析/概率论/随机过程讲义-李波.pdf][随机过程讲义]] :: 李波
 
 *** 其他
 
